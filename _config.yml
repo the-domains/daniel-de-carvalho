@@ -1,7 +1,7 @@
 name: Daniel de Carvalho
 favicon: null
-layout_spectrum: 0.04964282480068505
-typography_spectrum: 0.062244013883173466
+layout_spectrum: 0.7407
+typography_spectrum: 0.75832
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#f0f0f2'
+    - '#d3cfd0'
+    - '#d6aaa1'
+    - '#363030'
+    - '#9d7c73'
   brandStrength: 0.3363488628529012
   lightness: 0.852710024220869
   saturation: 0.6071268308442086
